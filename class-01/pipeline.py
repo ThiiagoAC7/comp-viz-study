@@ -1,11 +1,7 @@
-import pandas as pd
-import matplotlib.pyplot as plt
 from sklearn import svm
-from sklearn.model_selection import train_test_split
 from sklearn.dummy import DummyClassifier
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import Normalizer
-import tensorflow as tf
 from keras.applications import VGG16
 from keras.layers import Dense, Flatten
 from keras.optimizers import Adam
