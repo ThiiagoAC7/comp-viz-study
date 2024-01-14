@@ -1,4 +1,6 @@
 */data/
+*/datasets/
 */dogs/
 */.ipynb_checkpoints/
 */__pycache__/
+*.pt
