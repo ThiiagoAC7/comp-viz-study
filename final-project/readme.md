@@ -10,10 +10,11 @@
 
 The goal of this project is to, first, generate a Raccoon Dataset, made with AI generated images. 
 This Dataset was built by doing :
-    1. Prompt Generation (using a pretrained model based on GPT2)
-    2. Selection of random prompts generated previously.
-    3. Generating fixed number of images using a Stable Diffusion model
-    4. Saving, Labeling and Augmenting the generated images on Roboflow, manually.
+
+1. Prompt Generation (using a pretrained model based on GPT2)
+2. Selection of random prompts generated previously.
+3. Generating fixed number of images using a Stable Diffusion model
+4. Saving, Labeling and Augmenting the generated images on Roboflow, manually.
 
 The Dataset can be accessed on this [link](https://universe.roboflow.com/racoonsimgenthiagocosta/raccoon-imgen-thiago-costa) 
 
