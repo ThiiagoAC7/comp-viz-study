@@ -1,0 +1,7 @@
+names:
+- Raccoon
+nc: 1
+path: /content/gdrive/MyDrive/yolo_raccoons_generator/
+test: test/images
+train: train/images
+val: valid/images

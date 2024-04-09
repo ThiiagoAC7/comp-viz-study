@@ -4,3 +4,12 @@
 */.ipynb_checkpoints/
 */__pycache__/
 *.pt
+
+final-project/yolo_raccoons/yolo_raccoons_generator/test/
+final-project/yolo_raccoons/yolo_raccoons_generator/train/
+final-project/yolo_raccoons/yolo_raccoons_generator/valid/
+final-project/yolo_raccoons/yolo_raccoons_generator/runs/*/*/*.jpg
+final-project/yolo_raccoons/yolo_raccoons_generator/runs/*/*/*.png
+final-project/yolo_raccoons/yolo_raccoons_generator/runs/*/*.jpg
+final-project/yolo_raccoons/yolo_raccoons_generator/runs/*/*.png
+
